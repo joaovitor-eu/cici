@@ -29,7 +29,10 @@
     sudo dnf install git ruby gcc lolcat
     </code>
     <br>
+    <h2>
     Install Part2:
+    </h2>
+    <br>
     <code>
         git clone https://github.com/weevitor/mnix
     </code>
