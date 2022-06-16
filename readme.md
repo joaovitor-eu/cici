@@ -1,13 +1,12 @@
 <h1>Mnix Shell</h1>
 <h2>
-    Install:
+    Install Part1:
     <h3>
     Arch Linux
     </h3>
     <code>
     sudo pacman -S git ruby gcc lolcat
     </code>
-    <br>
     <br>
     <h3>
     Void Linux
@@ -16,7 +15,21 @@
     sudo xbps-install -S git ruby gcc lolcat 
     </code>
     <br>
+    <h3>
+    Ubuntu/Debian
+    </h3>
+    <code>
+    sudo apt install git ruby gcc lolcat -y
+    </code>
     <br>
+    <h3>
+    Fedora:
+    </h3>
+    <code>
+    sudo dnf install git ruby gcc lolcat
+    </code>
+    <br>
+    Install Part2:
     <code>
         git clone https://github.com/weevitor/mnix
     </code>
