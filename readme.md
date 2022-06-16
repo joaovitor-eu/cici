@@ -1,11 +1,19 @@
 <h1>Mnix Shell</h1>
-<h3>
+<h2>
     Install:
-    <h2>
+    <h3>
     Arch Linux
-    </h2>
+    </h3>
     <code>
     sudo pacman -S git ruby gcc lolcat
+    </code>
+    <br>
+    <br>
+    <h3>
+    Void Linux
+    </h3>
+    <code>
+    sudo xbps-install -S git ruby gcc lolcat 
     </code>
     <br>
     <br>
@@ -22,6 +30,6 @@
     <code>
         ./mnix
     </code>
-</h3>
+</h2>
     <br>
 <h4>Enjoy.</h4>
