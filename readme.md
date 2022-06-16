@@ -39,13 +39,9 @@
     <br>
     <br>
     <code>
-        cd mnix && ./fs
+        cd mnix && ./mnix
     </code>
     <br>
-    <br>
-    <code>
-        ./mnix
-    </code>
 </h2>
     <br>
 <h4>Enjoy.</h4>
