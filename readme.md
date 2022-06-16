@@ -1,5 +1,5 @@
 <h1>Mnix Shell</h1>
-<h2>
+<h3>
     <code>
         git clone https://github.com/weevitor/mnix
     </code>
@@ -13,7 +13,6 @@
     <code>
         ./mnix
     </code>
-</h2>
+</h3>
     <br>
-    <br>
-<h3>Enjoy.</h3>
+<h4>Enjoy.</h4>
