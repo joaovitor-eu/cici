@@ -5,7 +5,7 @@
     Arch Linux
     </h3>
     <code>
-    sudo pacman -S git ruby gcc lolcat
+    sudo pacman -S git ruby gcc lua
     </code>
     <br>
     <h3>
@@ -34,12 +34,12 @@
     </h2>
     <br>
     <code>
-        git clone https://github.com/weevitor/mnix
+        git clone https://github.com/darwinonauta/cici
     </code>
     <br>
     <br>
     <code>
-        cd mnix && ./mnix
+        cd cici && ./cici
     </code>
     <br>
 </h2>
